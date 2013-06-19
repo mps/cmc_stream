@@ -1,0 +1,5 @@
+## Readme
+
+* make sure bundler is installed, type: `sudo gem install bundler`
+* make sure all gems are installed, type: `bundle install`
+* run your command, type `rake setup` to launch an instance and `rake stop` to kill the instance
